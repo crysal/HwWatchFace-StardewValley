@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>StarDew</title>
+    <title-cn>StarDew</title-cn>
+    <author>Crysal</author>
+    <designer>Crysal</designer>
+    <screen>HWHD01</screen>
+    <version>3.1.2</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"en_US":"A watchface inspired by the game Stardew Vally"}</briefinfo>
+</HwTheme>
